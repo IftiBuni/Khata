@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Khata", "Khata\Khata.csproj", "{50F303A5-6CE9-4D28-B13E-7937856223B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F303A5-6CE9-4D28-B13E-7937856223B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F303A5-6CE9-4D28-B13E-7937856223B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F303A5-6CE9-4D28-B13E-7937856223B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F303A5-6CE9-4D28-B13E-7937856223B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6F780A-F0F9-4636-B8E6-65C20D2656D4}
+	EndGlobalSection
+EndGlobal
